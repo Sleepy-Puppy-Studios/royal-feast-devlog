@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on A Feast Most Deadly Devlog</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on A Feast Most Deadly Devlog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 14 Sep 2026 18:26:45 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Devlog 0001</title>
+				<link>http://localhost:1313/posts/devlog-0001/</link>
+				<pubDate>Mon, 14 Sep 2026 18:26:45 -0700</pubDate>
+				<guid>http://localhost:1313/posts/devlog-0001/</guid>
+				<description>&lt;h2 id=&#34;order-up&#34;&gt;Order Up!&lt;/h2&gt;&#xA;&lt;p&gt;We here at Sleepy Puppy Studios have been hard at work on our first project, a deductive reasoning game set in a fictional kingdom at the outset of the modern age.&lt;/p&gt;&#xA;&lt;p&gt;Play as the head steward of a finicky royal family, where you assemble a dinner menu for each night’s feast– deciding which attendees’ requests to fulfill and which to ignore– and accepting the rewards and consequences that come with this surprisingly impactful duty.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

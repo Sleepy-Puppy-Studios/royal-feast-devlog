@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>A Feast Most Deadly Devlog</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on A Feast Most Deadly Devlog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Sep 2026 17:19:36 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About Us</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Wed, 16 Sep 2026 17:19:36 -0700</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;h2 id=&#34;the-studio&#34;&gt;The Studio&lt;/h2&gt;&#xA;&lt;p&gt;Sleepy Puppy Studios is small independent game studio comprised of 5 devs. The studio formed for a capstone project for the University of Washington&amp;rsquo;s Game Design certificate program in Fall 2026, where we began work on our first title: &lt;em&gt;A Feast Most Deadly&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SleepyPuppyStudiosLogo.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;meet-the-team&#34;&gt;Meet the Team&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anna Roth&lt;/strong&gt; is our Lead Narrative Designer and Lead UI/UX Designer. She writes all the in-game text for &lt;em&gt;A Feast Most Deadly&lt;/em&gt; as well as spearheading the worldbuilding and narrative for the game. But Anna does not just write beautiful words, she also leads the design of UI/UX, which is absolutely crucial for the success of our game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Order Up!</title>
+				<link>http://localhost:1313/posts/devlog-0001/</link>
+				<pubDate>Mon, 14 Sep 2026 18:26:45 -0700</pubDate>
+				<guid>http://localhost:1313/posts/devlog-0001/</guid>
+				<description>&lt;h2 id=&#34;prepping-the-meal&#34;&gt;Prepping the Meal&lt;/h2&gt;&#xA;&lt;p&gt;We here at Sleepy Puppy Studios have been hard at work on our first project, a deductive reasoning game set in a fictional kingdom at the outset of the modern age.&lt;/p&gt;&#xA;&lt;p&gt;In &lt;em&gt;A Feast Most Deadly&lt;/em&gt; you play as the head steward for a finicky royal family with very particular tastes. You are in charge of assembling their dinner menu each night and making sure that they&amp;ndash; and their guests&amp;ndash; are satisfied.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

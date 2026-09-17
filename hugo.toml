@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'A Feast Most Deadly Devlog'
+theme = 'hugo-paper'
+
+[params]
+name = 'Sleepy Puppy Studios'
+bio = 'The dev team behind the upcoming game A Feast Most Deadly'
+disablePostNavigation = false
+
+[menu]
+    [[menu.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+    [[menus.main]]
+        name = 'About'
+        pageRef = 'about.md'
+        weight = 20
