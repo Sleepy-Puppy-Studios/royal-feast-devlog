@@ -7,7 +7,7 @@ title = 'About Us'
 ## The Studio
 Sleepy Puppy Studios is small independent game studio comprised of 5 devs. The studio formed for a capstone project for the University of Washington's Game Design certificate program in Fall 2026, where we began work on our first title: *A Feast Most Deadly*.
 
-![Logo](/images/SleepyPuppyStudiosLogo.png)
+![Logo](images/SleepyPuppyStudiosLogo.png)
 
 ### Meet the Team
 **Anna Roth** is our Lead Narrative Designer and Lead UI/UX Designer. She writes all the in-game text for *A Feast Most Deadly* as well as spearheading the worldbuilding and narrative for the game. But Anna does not just write beautiful words, she also leads the design of UI/UX, which is absolutely crucial for the success of our game.

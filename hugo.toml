@@ -1,4 +1,4 @@
-baseURL = 'https://sleepy-puppy-studios.github.io/royal-feast-devlog'
+baseURL = 'https://sleepy-puppy-studios.github.io/royal-feast-devlog/'
 locale = 'en-us'
 title = 'A Feast Most Deadly Devlog'
 theme = 'hugo-paper'
