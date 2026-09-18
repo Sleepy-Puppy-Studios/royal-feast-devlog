@@ -17,7 +17,7 @@ disablePostNavigation = false
         name = 'Home'
         pageRef = '/'
         weight = 10
-    [[menus.main]]
+    [[menu.main]]
         name = 'About'
         pageRef = 'about.md'
         weight = 20
