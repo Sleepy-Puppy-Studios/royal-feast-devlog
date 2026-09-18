@@ -3,6 +3,10 @@ locale = 'en-us'
 title = 'A Feast Most Deadly Devlog'
 theme = 'hugo-paper'
 
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
+
 [params]
 name = 'Sleepy Puppy Studios'
 bio = 'The dev team behind the upcoming game A Feast Most Deadly'
