@@ -1,7 +1,7 @@
 baseURL = 'https://sleepy-puppy-studios.github.io/royal-feast-devlog/'
 locale = 'en-us'
 title = 'A Feast Most Deadly Devlog'
-theme = 'hugo-paper'
+theme = ['hugo-admonitions', 'hugo-paper']
 
 [caches]
     [caches.images]

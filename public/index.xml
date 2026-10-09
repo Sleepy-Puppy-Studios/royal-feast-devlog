@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>A Feast Most Deadly Devlog</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/royal-feast-devlog/</link>
 		<description>Recent content on A Feast Most Deadly Devlog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 17:19:36 -0700</lastBuildDate>
+			<lastBuildDate>Tue, 06 Oct 2026 17:36:03 -0700</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/royal-feast-devlog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Acquired Tastes: Tag-Based Attributes and Preferences</title>
+				<link>http://localhost:1313/royal-feast-devlog/posts/devlog-0003/</link>
+				<pubDate>Tue, 06 Oct 2026 17:36:03 -0700</pubDate>
+				<guid>http://localhost:1313/royal-feast-devlog/posts/devlog-0003/</guid>
+				<description>&lt;h2 id=&#34;identifying-the-core-gameplay-loop&#34;&gt;Identifying the Core Gameplay Loop&lt;/h2&gt;&#xA;&lt;p&gt;We knew very early on that the core gameplay loop of our game would look something like this:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The player receives clues and hints from various sources as to NPCs&amp;rsquo; personal food preferences.&lt;/li&gt;&#xA;&lt;li&gt;The player takes what they have learned and builds a menu to appease as many attendees as possible.&lt;/li&gt;&#xA;&lt;li&gt;The player is scored on their performance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With that core loop in mind, it became apparent that a strict tag-based system had to be employed in order to match character preferences with dish attributes and that the final scoring would be based on a comparison of each attendee&amp;rsquo;s preference list and the assembled menu&amp;rsquo;s attributes list.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Limited Time</title>
+				<link>http://localhost:1313/royal-feast-devlog/posts/devlog-0002/</link>
+				<pubDate>Sat, 19 Sep 2026 13:29:13 -0700</pubDate>
+				<guid>http://localhost:1313/royal-feast-devlog/posts/devlog-0002/</guid>
+				<description>&lt;p&gt;As this game is being made as part of a class assignment, we have been given only 9 weeks to design, create, and publish it. While we are only 2 weeks in at this point, we are humming right along and excited to show you the progress thus far. The next few dev logs will all be about designing the mechanics and systems that form the game. For this first one, the central theme is &amp;ldquo;limited time&amp;rdquo; &amp;ndash; we will discuss how the limited time we have been given to make this game affected design decisions and how we decided to incorporate limited time mechanics into our game.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>About Us</title>
-				<link>http://localhost:1313/about/</link>
+				<link>http://localhost:1313/royal-feast-devlog/about/</link>
 				<pubDate>Wed, 16 Sep 2026 17:19:36 -0700</pubDate>
-				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;h2 id=&#34;the-studio&#34;&gt;The Studio&lt;/h2&gt;&#xA;&lt;p&gt;Sleepy Puppy Studios is small independent game studio comprised of 5 devs. The studio formed for a capstone project for the University of Washington&amp;rsquo;s Game Design certificate program in Fall 2026, where we began work on our first title: &lt;em&gt;A Feast Most Deadly&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SleepyPuppyStudiosLogo.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;meet-the-team&#34;&gt;Meet the Team&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anna Roth&lt;/strong&gt; is our Lead Narrative Designer and Lead UI/UX Designer. She writes all the in-game text for &lt;em&gt;A Feast Most Deadly&lt;/em&gt; as well as spearheading the worldbuilding and narrative for the game. But Anna does not just write beautiful words, she also leads the design of UI/UX, which is absolutely crucial for the success of our game.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/royal-feast-devlog/about/</guid>
+				<description>&lt;h2 id=&#34;the-studio&#34;&gt;The Studio&lt;/h2&gt;&#xA;&lt;p&gt;Sleepy Puppy Studios is small independent game studio comprised of 5 devs. The studio formed for a capstone project for the University of Washington&amp;rsquo;s Game Design certificate program in Fall 2026, where we began work on our first title: &lt;em&gt;A Feast Most Deadly&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/royal-feast-devlog/images/SleepyPuppyStudiosLogo.png&#34; alt=&#34;Logo&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;meet-the-team&#34;&gt;Meet the Team&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anna Roth&lt;/strong&gt; is our Lead Narrative Designer and Lead UI/UX Designer. She writes all the in-game text for &lt;em&gt;A Feast Most Deadly&lt;/em&gt; as well as spearheading the worldbuilding and narrative for the game. But Anna does not just write beautiful words, she also leads the design of UI/UX, which is absolutely crucial for the success of our game.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Order Up!</title>
-				<link>http://localhost:1313/posts/devlog-0001/</link>
+				<link>http://localhost:1313/royal-feast-devlog/posts/devlog-0001/</link>
 				<pubDate>Mon, 14 Sep 2026 18:26:45 -0700</pubDate>
-				<guid>http://localhost:1313/posts/devlog-0001/</guid>
+				<guid>http://localhost:1313/royal-feast-devlog/posts/devlog-0001/</guid>
 				<description>&lt;h2 id=&#34;prepping-the-meal&#34;&gt;Prepping the Meal&lt;/h2&gt;&#xA;&lt;p&gt;We here at Sleepy Puppy Studios have been hard at work on our first project, a deductive reasoning game set in a fictional kingdom at the outset of the modern age.&lt;/p&gt;&#xA;&lt;p&gt;In &lt;em&gt;A Feast Most Deadly&lt;/em&gt; you play as the head steward for a finicky royal family with very particular tastes. You are in charge of assembling their dinner menu each night and making sure that they&amp;ndash; and their guests&amp;ndash; are satisfied.&lt;/p&gt;</description>
 			</item>
 	</channel>
